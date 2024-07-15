@@ -1,0 +1,11 @@
+body {
+  background-image: url(weather.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  margin: 0; /* Remove default margin to ensure full coverage */
+  height: 100vh; /* Ensure body covers full viewport height */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
